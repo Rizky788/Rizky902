@@ -13,5 +13,5 @@ $ bash install.sh
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/lina.damanik.79)</b>
 <br>
-<b>• [Youtube](https://m.youtube.com/channel/UCczddkGMmujyvcQXFunUWuQ/videos)</b>
+<b>• [YouTube](https://m.youtube.com/channel/UCczddkGMmujyvcQXFunUWuQ/videos)</b>
 </br>
